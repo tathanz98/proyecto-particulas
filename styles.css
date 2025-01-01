@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    color: white;
+    background: black; /* Fondo negro */
+}
+  
+canvas {
+    display: block;
+    
+  }
+  
